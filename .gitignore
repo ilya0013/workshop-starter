@@ -32,6 +32,7 @@ logs/
 private/
 CLAUDE.local.md
 .claude/settings.local.json
+.claude/*.lock
 
 # OS metadata.
 .DS_Store
