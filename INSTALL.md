@@ -1,4 +1,4 @@
-# Установка Workshop Starter v0.2.11
+# Установка Workshop Starter v0.2.12
 
 Один пакет для Windows и macOS, для Codex и Claude Code. Пути относительны папке проекта.
 
